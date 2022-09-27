@@ -1,3 +1,2 @@
 ﻿  LinkedList.cpp
-MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
-C:\Users\Wang Grundy\Documents\Uni work\CMP201\Week2\Practical 2 - Partial Project\x64\Debug\Week2Partial.exe : fatal error LNK1120: 1 unresolved externals
+  Week2Partial.vcxproj -> C:\Users\Wang Grundy\Documents\Uni work\CMP201\Week2\Practical 2 - Partial Project\x64\Debug\Week2Partial.exe
